@@ -46,7 +46,7 @@
                         </a>
                     </div>
                     <div class="soc-item">
-                        <a href="#" target="_blank">
+                        <a href="https://www.facebook.com/profile.php?id=61555675393584&mibextid=ZbWKwL" target="_blank">
                             <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
                         </a>
                     </div>

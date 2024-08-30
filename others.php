@@ -20,7 +20,7 @@
                         <img src="assets/images/utme-696x422.png" alt="" data-slide-to="0" data-bs-slide-to="0">
                     </div>
                     <div class="item-content bg-primary text-light">
-                        <a class="btn btn-light w-100" href="https://wa.me/2347040034373">UTME Software</a>
+                        <a class="btn btn-light w-100" href="https://distinctionpro.com">UTME Software</a>
                     </div>
                     
                 </div>
@@ -29,7 +29,7 @@
             <div class="item features-image сol-12 col-md-3 col-lg-3">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/copy-696x422.png" alt="" data-slide-to="1" data-bs-slide-to="1">
+                        <img src="logos/copy.png" alt="" data-slide-to="1" data-bs-slide-to="1">
                     </div>
                     <div class="item-content bg-primary text-light">
                       <a class="btn btn-light w-100" href="https://wa.me/2347040034373">Copywriting</a>

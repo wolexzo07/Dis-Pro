@@ -1,6 +1,6 @@
   
   <?php
-	if(getCurrentFileName() == "request.php"){
+	if(getCurrentFileName() == "request.php" || getCurrentFileName() == "profile.php"){
 		
 		$mshow = 'style="display:none;"';
 		
@@ -36,6 +36,7 @@
 				<li <?php echo $mshow ;?> class="nav-item"><a class="nav-link link text-black display-4" href="#features13-2">Why us?</a></li>
 				<li <?php echo $mshow ;?> class="nav-item"><a class="nav-link link text-black display-4" href="#features2-i">Modules</a></li>
 				<li <?php echo $mshow ;?> class="nav-item"><a class="nav-link link text-black display-4" href="#testimonials2-b">Testimonial</a></li>
+				<li <?php echo $mshow ;?> class="nav-item"><a class="nav-link link text-black display-4" href="profile">Meet our CEO</a></li>
 				</ul>
                 
                 <div <?php echo $mshow ;?> class="navbar-buttons mbr-section-btn"><a class="btn btn-primary display-4" href="request?token=<?php echo sha1(uniqid());?>">Request Demo</a></div>

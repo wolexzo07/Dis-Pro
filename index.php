@@ -342,14 +342,17 @@
     
     <div class="images-container container-fluid">
         <div class="mbr-section-head">
-            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2 d-none">
-                <strong>Our Clients</strong>
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2 ">
+                <strong>Our latest Client this term</strong>
             </h3>
             
             
         </div>
         <div class="row justify-content-center mt-4">
-            <div class="col-md-3 card">
+            <div class="col-md-3 card" style="margin-right:50pt;">
+                <img src="logos/final.png" style="width:200px;" alt="final-1">
+            </div>
+			<div class="col-md-3 card">
                 <img src="assets/images/3-240x183.png" alt="logo-1">
             </div>
             <div class="col-md-3 card">
